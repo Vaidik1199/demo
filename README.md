@@ -1,5 +1,6 @@
 # demo
-This is my first repository
+This is my first Git repository.
 <br>
-nothing but the demo to understand the repository concept.
-Author - Vaidik 
+Nothing but the demo to understand the repository concept.
+<br>
+Author - Vaidik.
